@@ -7,6 +7,5 @@
 
 python setup.py install
 
-1)github.py - основной модуль
-2)config.py - класс с настройками
-3)readme.txt - Информация
+config.py - класс с настройками
+readme.txt - Информация
